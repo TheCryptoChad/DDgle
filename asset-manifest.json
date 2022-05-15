@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DDgle/static/css/main.c254c2d4.css",
+    "main.js": "/DDgle/static/js/main.befd1cb1.js",
+    "index.html": "/DDgle/index.html",
+    "main.c254c2d4.css.map": "/DDgle/static/css/main.c254c2d4.css.map",
+    "main.befd1cb1.js.map": "/DDgle/static/js/main.befd1cb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c254c2d4.css",
+    "static/js/main.befd1cb1.js"
+  ]
+}

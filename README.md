@@ -1,4 +1,4 @@
-# React To-Do List
+# DDgle
 
 This project is a Search Engine made using React Hooks, Google's [Custom Search API](https://developers.google.com/custom-search/v1/overview) and styled using [Tailwind CSS](https://tailwindcss.com). 
 
